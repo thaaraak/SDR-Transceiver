@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 06d3d5b4-004c-46ac-b8ff-bba1b704f16c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "PA-IN" (shape input) (at 120.65 90.17 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 4949d1ce-b91a-4902-9f99-07859f619845)
+  )
+  (hierarchical_label "PA-OUT" (shape output) (at 120.65 96.52 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5f47d870-5de1-4840-b8d2-d43e4c3c4fc7)
+  )
+  (hierarchical_label "T{slash}R" (shape input) (at 120.65 102.87 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a85b014c-299e-4805-886d-548bdec7ccbe)
+  )
+)
