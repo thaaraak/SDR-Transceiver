@@ -336,6 +336,34 @@
     )
   )
 
+  (sheet (at 40.64 81.28) (size 22.86 49.53) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 85cf5236-19af-47bd-b6dc-799e0e38ef1d)
+    (property "Sheet name" "DSP" (id 0) (at 40.64 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "DSP.kicad_sch" (id 1) (at 40.64 131.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (pin "DSP-OUTL" output (at 63.5 118.11 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 9e3eac6d-18fb-4a86-a32b-c741eddd71a5)
+    )
+    (pin "DSP-OUTR" output (at 63.5 121.92 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 7bd64813-5c79-4811-8265-0e1a056c56c7)
+    )
+    (pin "DSP-INR" input (at 63.5 92.71 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid b78cc562-60ea-4bdb-92b6-0b62a51027fd)
+    )
+    (pin "DSP-INL" input (at 63.5 88.9 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 5abe15e2-e384-4391-8a1a-2f4de7378628)
+    )
+  )
+
   (sheet (at 205.74 68.58) (size 29.21 31.75) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -410,6 +438,7 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95" (page "7"))
     (path "/5722f6fa-2bcc-4202-8947-4321e1b76cf2" (page "8"))
     (path "/38ec5edb-504e-48c9-aada-546359fe144d" (page "9"))
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d" (page "10"))
   )
 
   (symbol_instances
@@ -524,6 +553,12 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/d7ab00f7-d453-46b0-9d78-25c24883e5df"
       (reference "#PWR0137") (unit 1) (value "+2V5") (footprint "")
     )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/53286237-6086-46a9-9434-25d6f0672810"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/1f97ee07-4b41-4a0b-a2a9-d374b2038851"
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dd12f21a-378a-48c3-99c8-be75492147f4"
       (reference "C1") (unit 1) (value "270pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
@@ -592,6 +627,24 @@
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/1f56a0df-38de-48f2-ad36-b0dd2dc2dad2"
       (reference "C23") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/fc04a4e4-1dba-4730-a534-63e52692b1d5"
+      (reference "C24") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/14ef25cd-943e-4963-b96c-01a2a554ca76"
+      (reference "C25") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/6a34666e-bc5a-495c-8fdd-3d7ede3a07ba"
+      (reference "C26") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/57ec3002-cebc-4d33-997d-28a28aea6d28"
+      (reference "C27") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/ba66c4ae-62cc-413e-af5c-8776b1e6b95b"
+      (reference "C28") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/7abe07da-f11a-4f67-8752-13f40d07bb5a"
+      (reference "C29") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/dd78a2a3-3b94-4c56-a19a-5c168aa90dff"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
@@ -677,6 +730,12 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/bd9f9ee1-fbf4-4686-8d2a-4e69d966b31c"
       (reference "R20") (unit 1) (value "50") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/d72aa15a-233f-4946-8730-8d68e7c9346c"
+      (reference "R21") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/24826017-976d-4a17-b619-71be51ca0009"
+      (reference "R22") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/dbc98a07-c075-4ec8-822f-59596956d619"
       (reference "T1") (unit 1) (value "T37-6 5:25") (footprint "Xenir:T37 Transformer")
     )
@@ -721,6 +780,9 @@
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/f76356d5-4c12-49b0-9c79-22ed5bc022d8"
       (reference "U5") (unit 3) (value "LM4562") (footprint "Xenir:SO08")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/bfc5e1cf-d28e-44f7-b8ad-5f46427e5b43"
+      (reference "U6") (unit 1) (value "ESP32-A1S") (footprint "Xenir:ESP32-A1S")
     )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/a3e1d27e-f1e5-419b-8a71-6427134bb505"
       (reference "VC1") (unit 1) (value "1-40pF") (footprint "Xenir:trimcap")
