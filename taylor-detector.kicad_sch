@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1dbbbc87-2cfd-4da6-b330-f8c716c31506)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Detector-In" (shape input) (at 147.32 90.17 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 443eaa12-b1fb-4129-aedf-356c69bf48c8)
+  )
+  (hierarchical_label "0-Degree" (shape input) (at 124.46 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8afd9eb8-abd1-46db-a9d7-0a3859a0842f)
+  )
+  (hierarchical_label "90-Degree" (shape input) (at 124.46 92.71 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid aca8cb2f-c84a-4688-bb13-79c1ce6c4e30)
+  )
+)

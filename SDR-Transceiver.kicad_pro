@@ -430,6 +430,18 @@
     [
       "fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f",
       "PA"
+    ],
+    [
+      "55f7663e-b1f3-4887-8039-51d9aa6cf075",
+      "Tayloe-Detector"
+    ],
+    [
+      "761d3f21-aa4d-464a-afce-80c9486b9d95",
+      "Tayloe-Encoder"
+    ],
+    [
+      "5722f6fa-2bcc-4202-8947-4321e1b76cf2",
+      "Local-Oscillator"
     ]
   ],
   "text_variables": {}

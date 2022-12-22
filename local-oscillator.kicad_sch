@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7d66543b-cf5a-410c-aa05-96a4f07c37c1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "90-Degree" (shape input) (at 134.62 100.33 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ac1c3549-8581-41da-aada-19bcd68c8ff2)
+  )
+  (hierarchical_label "0-Degree" (shape input) (at 134.62 95.25 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid c4825af8-9e0f-44ca-bbab-893e8b8f886f)
+  )
+)
