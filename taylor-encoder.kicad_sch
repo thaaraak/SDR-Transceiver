@@ -8,7 +8,7 @@
   )
 
 
-  (hierarchical_label "Encoder-Out" (shape input) (at 132.08 92.71 0)
+  (hierarchical_label "Encoder-Out" (shape output) (at 132.08 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3d5e057d-56d7-412b-81ab-505719bd26b8)
   )

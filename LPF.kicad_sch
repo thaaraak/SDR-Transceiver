@@ -202,7 +202,7 @@
     (uuid e4a6f7c4-d729-42ae-8771-b634c44914bf)
   )
 
-  (hierarchical_label "OUT-LPF" (shape input) (at 158.75 104.14 0)
+  (hierarchical_label "OUT-LPF" (shape output) (at 158.75 104.14 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid a2fabdcc-f6e3-4dbb-b350-960ecd453cc7)
   )

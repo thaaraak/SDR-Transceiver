@@ -443,7 +443,7 @@
     (uuid fe5bf145-1354-4058-bae6-ba082e56f881)
   )
 
-  (hierarchical_label "BPF-OUT" (shape input) (at 196.85 80.01 0)
+  (hierarchical_label "BPF-OUT" (shape output) (at 196.85 80.01 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9aa1e34d-0f6d-4d2e-a6ff-943580d6b3cf)
   )
