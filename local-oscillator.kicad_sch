@@ -8,6 +8,10 @@
   )
 
 
+  (hierarchical_label "SDA" (shape input) (at 114.3 100.33 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 964a911e-230c-48a2-b9a2-39888332d677)
+  )
   (hierarchical_label "90-Degree" (shape output) (at 134.62 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ac1c3549-8581-41da-aada-19bcd68c8ff2)
@@ -15,5 +19,9 @@
   (hierarchical_label "0-Degree" (shape output) (at 134.62 95.25 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c4825af8-9e0f-44ca-bbab-893e8b8f886f)
+  )
+  (hierarchical_label "SCL" (shape input) (at 114.3 95.25 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e1817712-b82d-42b4-afd8-3a747414cd9f)
   )
 )
