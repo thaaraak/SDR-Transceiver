@@ -442,6 +442,10 @@
     [
       "5722f6fa-2bcc-4202-8947-4321e1b76cf2",
       "Local-Oscillator"
+    ],
+    [
+      "38ec5edb-504e-48c9-aada-546359fe144d",
+      "Audio-Switch"
     ]
   ],
   "text_variables": {}
