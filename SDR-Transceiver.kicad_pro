@@ -450,6 +450,14 @@
     [
       "85cf5236-19af-47bd-b6dc-799e0e38ef1d",
       "DSP"
+    ],
+    [
+      "5f063c95-df15-40e2-976b-527eb6081e78",
+      "MIC"
+    ],
+    [
+      "2f85a458-660d-4f57-88f2-6e8a918eb0ad",
+      "AUDIO-AMP"
     ]
   ],
   "text_variables": {}

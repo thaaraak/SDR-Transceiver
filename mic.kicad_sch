@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ff50af57-e749-47f7-8c0c-695babda2d5a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "MIC-OUT" (shape output) (at 133.35 82.55 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d5fd2734-94d9-492a-8037-533045277dab)
+  )
+)

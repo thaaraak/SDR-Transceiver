@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1b26ca14-649d-43e8-b4d9-46fa2a919d1d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "AUDIO-AMP-IN" (shape input) (at 135.89 88.9 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 833efef1-938d-483d-b215-697b76f32633)
+  )
+)
