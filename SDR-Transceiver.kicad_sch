@@ -754,6 +754,12 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/484badff-90d0-451f-a8ea-431339845deb"
       (reference "#PWR0149") (unit 1) (value "GND") (footprint "")
     )
+    (path "/38ec5edb-504e-48c9-aada-546359fe144d/e3ced866-d7d7-4028-8505-691ad53b627c"
+      (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/38ec5edb-504e-48c9-aada-546359fe144d/ffbb40ae-3a1c-4fc1-8c52-a7d2a60a6fc6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dd12f21a-378a-48c3-99c8-be75492147f4"
       (reference "C1") (unit 1) (value "270pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
@@ -864,6 +870,9 @@
     )
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/2bb25b0b-5c2a-4fa7-8532-8e764a8b7dd8"
       (reference "C37") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/38ec5edb-504e-48c9-aada-546359fe144d/650481f7-1e73-4ac6-b7ba-7fba50415c98"
+      (reference "C38") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/dd78a2a3-3b94-4c56-a19a-5c168aa90dff"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
