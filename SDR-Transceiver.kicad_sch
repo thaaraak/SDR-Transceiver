@@ -632,7 +632,7 @@
   )
 
   (symbol_instances
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/abc775ca-734c-40e9-aee6-d67db0232d82"
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/0c634d10-b9ff-45a3-a7b0-42552773a0c6"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/effb8883-acd0-4298-8fa0-c9edb48c9bc6"
@@ -791,17 +791,14 @@
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/c0b808d9-9b65-46df-984d-b6dfc6e538ff"
       (reference "#PWR0153") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dd12f21a-378a-48c3-99c8-be75492147f4"
-      (reference "C1") (unit 1) (value "270pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/15184bad-f3f6-4ee2-8054-b3ee63bb9a72"
+      (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/2490c6bd-2f4d-4d49-805e-dce1809adaf6"
-      (reference "C2") (unit 1) (value "470pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/ff17f9c1-2039-4ebf-9fc3-920c4c176031"
+      (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/de37b03e-0e35-4ea6-aa47-23625ce3ed3f"
-      (reference "C3") (unit 1) (value "470pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/c397e56c-673e-4296-90de-e2b1ef692a9b"
-      (reference "C4") (unit 1) (value "270Pf") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/0ddc6769-f766-469c-90f0-143f22204288"
+      (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/00906503-770a-4bb1-85e2-844a5014d1eb"
       (reference "C9") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -920,20 +917,17 @@
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
       (reference "J3") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dc656fff-18ac-4a4a-803f-1283e189c131"
+      (reference "J4") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/6b398d1c-319d-4d23-9732-14e1190019e0"
+      (reference "J5") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8abc09d7-e367-4338-a9ec-158f41a92538"
       (reference "K1") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/7cd14f51-eaea-45a5-9c75-1d3173b53307"
       (reference "K2") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
-    )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/600988fb-a81c-41ff-9546-a850993606f7"
-      (reference "L1") (unit 1) (value "T37-6") (footprint "Xenir:T37_Inductor")
-    )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/cb6104d3-d270-4d9e-b3fa-bd829565ba6c"
-      (reference "L2") (unit 1) (value "T37-6") (footprint "Xenir:T37_Inductor")
-    )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/b25f9b58-6ed3-423f-9dca-e30c59f6b48c"
-      (reference "L3") (unit 1) (value "T37-6") (footprint "Xenir:T37_Inductor")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/043b2101-06ae-4250-9e4d-e16183a7a737"
       (reference "R1") (unit 1) (value "100") (footprint "Resistor_SMD:R_0805_2012Metric")
