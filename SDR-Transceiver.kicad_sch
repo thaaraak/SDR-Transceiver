@@ -785,6 +785,12 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/ffbb40ae-3a1c-4fc1-8c52-a7d2a60a6fc6"
       (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/2249a7b6-a19e-4434-9119-221109ef0a8e"
+      (reference "#PWR0152") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/c0b808d9-9b65-46df-984d-b6dfc6e538ff"
+      (reference "#PWR0153") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dd12f21a-378a-48c3-99c8-be75492147f4"
       (reference "C1") (unit 1) (value "270pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
@@ -796,18 +802,6 @@
     )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/c397e56c-673e-4296-90de-e2b1ef692a9b"
       (reference "C4") (unit 1) (value "270Pf") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/f3abf209-3181-4d4f-8092-a36023390dde"
-      (reference "C5") (unit 1) (value "90pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/b0c558a0-37de-47e7-a9c6-ef330c57e750"
-      (reference "C6") (unit 1) (value "N/C") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/43d8ee23-71df-4a88-bed8-2dfc9f3649f5"
-      (reference "C7") (unit 1) (value "12pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/82ff7c9e-c84a-4cef-a936-51c62357e3aa"
-      (reference "C8") (unit 1) (value "90pF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/00906503-770a-4bb1-85e2-844a5014d1eb"
       (reference "C9") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -920,6 +914,12 @@
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/1dadd5ca-5944-4652-9415-19e79d3e293b"
       (reference "J1") (unit 1) (value "BNC") (footprint "Xenir:BNC")
     )
+    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/1074fd9c-9784-426b-bc84-39d1deb68297"
+      (reference "J2") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
+    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
+      (reference "J3") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8abc09d7-e367-4338-a9ec-158f41a92538"
       (reference "K1") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
     )
@@ -1025,12 +1025,6 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/3bcbbb2b-6426-4545-823e-f370ca7587b8"
       (reference "R30") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/dbc98a07-c075-4ec8-822f-59596956d619"
-      (reference "T1") (unit 1) (value "T37-6 5:25") (footprint "Xenir:T37 Transformer")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/395b5867-4a6a-4f19-b944-eb7bc7b91bd6"
-      (reference "T2") (unit 1) (value "T37-6 25:5") (footprint "Xenir:T37 Transformer")
-    )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/48d5bd60-7f69-4208-859d-4842c79ca943"
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
     )
@@ -1075,12 +1069,6 @@
     )
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/36f74fc8-7aa3-4ba8-81d0-37fd62bf6dc9"
       (reference "U7") (unit 1) (value "FST3257") (footprint "Xenir:SO16")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/a3e1d27e-f1e5-419b-8a71-6427134bb505"
-      (reference "VC1") (unit 1) (value "1-40pF") (footprint "Xenir:trimcap")
-    )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/51490fe5-bddc-49ce-a6ec-b5671d359b0c"
-      (reference "VC2") (unit 1) (value "1-40pF") (footprint "Xenir:trimcap")
     )
   )
 )
