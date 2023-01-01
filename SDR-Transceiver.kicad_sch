@@ -923,6 +923,15 @@
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/0ddc6769-f766-469c-90f0-143f22204288"
       (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
     )
+    (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/6cd458c0-fa89-418d-b875-ee58f758fb28"
+      (reference "#PWR0157") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/6ce49b16-1853-4f21-b820-f138cfc13f57"
+      (reference "#PWR0158") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/a211bcfb-5c08-4d92-bf8b-cc0d25f65388"
+      (reference "#PWR0159") (unit 1) (value "+12V") (footprint "")
+    )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/00906503-770a-4bb1-85e2-844a5014d1eb"
       (reference "C9") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
@@ -1052,6 +1061,9 @@
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/7cd14f51-eaea-45a5-9c75-1d3173b53307"
       (reference "K2") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
     )
+    (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/ea0200b7-1491-4b65-b828-8f6727034cbd"
+      (reference "Q1") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/043b2101-06ae-4250-9e4d-e16183a7a737"
       (reference "R1") (unit 1) (value "100") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
@@ -1141,6 +1153,9 @@
     )
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/3bcbbb2b-6426-4545-823e-f370ca7587b8"
       (reference "R30") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8ba7b829-8e69-4964-9916-a153dcbd57d8"
+      (reference "R31") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/48d5bd60-7f69-4208-859d-4842c79ca943"
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
