@@ -960,6 +960,9 @@
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/bb1e1d36-bdf9-49d3-9742-d058f3449988"
       (reference "#PWR0167") (unit 1) (value "GND") (footprint "")
     )
+    (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/a2828670-234c-4de2-9d5f-962b69d5f2b5"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/34067e6c-49d8-490e-84ad-4e212d112ce1"
       (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -1230,11 +1233,17 @@
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/07b9e1fc-bb00-4269-a297-f2295b29548c"
       (reference "R36") (unit 1) (value "50") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/41225600-e015-4827-ae6c-1fea8325fccc"
+      (reference "R37") (unit 1) (value "50") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/48d5bd60-7f69-4208-859d-4842c79ca943"
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/167f23ec-0a58-467e-b69b-4eb029d95ce8"
       (reference "T4") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
+    )
+    (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/c32cc9c6-93b5-46e1-ac84-f12d271ad6ab"
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/146f7834-2376-406e-b32d-c3e17f0b31da"
       (reference "U1") (unit 1) (value "FST3253") (footprint "Xenir:SO16")
