@@ -1,4 +1,4 @@
-20999455049645925
+21001127625377635
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87960,4 +87960,11 @@ trimcap
 
 0
 2
+2
+Xenir_V6
+pcb-sma-edge
+
+
+0
+5
 2
