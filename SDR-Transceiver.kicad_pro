@@ -473,6 +473,10 @@
     [
       "2f85a458-660d-4f57-88f2-6e8a918eb0ad",
       "Audio Amp"
+    ],
+    [
+      "5ff2d89a-bce1-4bc3-a6cd-a338f168d531",
+      "Power"
     ]
   ],
   "text_variables": {}

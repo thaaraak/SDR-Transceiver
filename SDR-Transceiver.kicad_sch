@@ -603,6 +603,18 @@
     )
   )
 
+  (sheet (at 40.64 143.51) (size 22.86 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5ff2d89a-bce1-4bc3-a6cd-a338f168d531)
+    (property "Sheet name" "Power" (id 0) (at 40.64 142.4809 0)
+      (effects (font (size 1.905 1.905)) (justify left bottom))
+    )
+    (property "Sheet file" "power.kicad_sch" (id 1) (at 40.64 158.0646 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
   (sheet (at 138.43 106.68) (size 20.32 24.13)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -756,6 +768,7 @@
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d" (page "10"))
     (path "/5f063c95-df15-40e2-976b-527eb6081e78" (page "11"))
     (path "/2f85a458-660d-4f57-88f2-6e8a918eb0ad" (page "12"))
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531" (page "13"))
   )
 
   (symbol_instances
@@ -975,6 +988,48 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/d93b4517-f908-4312-905b-4fab64ead1c2"
       (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/9f707312-9e57-4914-84cb-c4dc5e503b92"
+      (reference "#PWR0173") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/a7f5c303-56ed-4360-a565-e484e76d8355"
+      (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/c786dc1b-b2ab-42e7-87a5-1c3811fdb3da"
+      (reference "#PWR0175") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/f372ede5-a666-4fe4-a6ce-16cd7f2f1fec"
+      (reference "#PWR0176") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/56cc9cd8-6de4-4329-ac6f-2ab410a9fa49"
+      (reference "#PWR0177") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/a44c5fba-e582-406b-a885-5deeb9f87090"
+      (reference "#PWR0178") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/b7fa9f2e-1ea7-4f63-8bbc-fea8946386e4"
+      (reference "#PWR0179") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/21d9cefb-9ec3-4e22-b3d6-fd1bd282cc53"
+      (reference "#PWR0180") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/2c917053-ea3f-4061-9239-fd3f5eaa9abf"
+      (reference "#PWR0181") (unit 1) (value "+2V5") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/600b6157-5910-4e6a-b313-254a39a4d248"
+      (reference "#PWR0182") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/e4f5a2d9-4c77-4e39-9473-83b716beea9f"
+      (reference "#PWR0183") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/b5ffd835-13d2-495e-8ad5-d5b79426efc6"
+      (reference "#PWR0184") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/580e716c-6f81-4313-b9ab-78bff4a6b69a"
+      (reference "#PWR0185") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/bbd7bf7e-182f-4b19-af6f-cf6a4ed14ec8"
+      (reference "#PWR0186") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/34067e6c-49d8-490e-84ad-4e212d112ce1"
       (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -1101,6 +1156,21 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/9f543515-412d-440b-8fe5-1a426ecf82c3"
       (reference "C42") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/11792131-090a-49db-8cc0-ce59a211e5e1"
+      (reference "C43") (unit 1) (value "100uF") (footprint "Capacitor_SMD:CP_Elec_6.3x5.4")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/79753875-9657-49fb-92ca-7861d6ef08a4"
+      (reference "C44") (unit 1) (value "22uF") (footprint "Capacitor_SMD:CP_Elec_4x5.4")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/aba8747d-66f0-4447-8702-bba6ed5aa3f5"
+      (reference "C45") (unit 1) (value ".1uF") (footprint "Xenir:Capacitor 0805")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/6b132302-d1c0-4262-be73-f14b9170f5fc"
+      (reference "C46") (unit 1) (value "22uF") (footprint "Capacitor_SMD:CP_Elec_4x5.4")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/70c3a4d8-1d4b-4624-864f-b2c05935bd07"
+      (reference "C47") (unit 1) (value ".1uF") (footprint "Xenir:Capacitor 0805")
+    )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/dd78a2a3-3b94-4c56-a19a-5c168aa90dff"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -1130,6 +1200,9 @@
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/09c57429-7f2f-4ada-a464-c207955bd1d5"
       (reference "J8") (unit 1) (value "Audio_Jack") (footprint "Xenir:Audio_Jack")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/908d3ffa-3b26-4713-9ac3-d4fda9c621ef"
+      (reference "J9") (unit 1) (value "Barrel_Jack_Switch") (footprint "Xenir:BarrelJack_Horizontal")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8abc09d7-e367-4338-a9ec-158f41a92538"
       (reference "K1") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
@@ -1272,6 +1345,12 @@
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/1791ea9d-6e73-4f85-8ae5-a22b88d8d341"
       (reference "R41") (unit 1) (value "47k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/704b6843-05da-4bfa-9200-9fa24398a2af"
+      (reference "R42") (unit 1) (value "Resistor") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/1593512d-4f44-4c4d-b586-e2d19307e33e"
+      (reference "R43") (unit 1) (value "Resistor") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/48d5bd60-7f69-4208-859d-4842c79ca943"
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
     )
@@ -1319,6 +1398,12 @@
     )
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/36f74fc8-7aa3-4ba8-81d0-37fd62bf6dc9"
       (reference "U7") (unit 1) (value "FST3257") (footprint "Xenir:SO16")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/3a46f9f3-6949-4289-b6ee-b1105d7debe7"
+      (reference "U8") (unit 1) (value "L7805") (footprint "Package_TO_SOT_SMD:TO-252-3_TabPin2")
+    )
+    (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/1fb30492-829c-4195-ae0f-77e8341f5af7"
+      (reference "U9") (unit 1) (value "AMS1117CD-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
   )
 )
