@@ -224,7 +224,7 @@
   (net 134 "unconnected-(U6-Pad33)")
   (net 135 "unconnected-(U10-Pad1)")
   (net 136 "Encoder2.5")
-  (net 137 "Net-(T4-PadC2A)")
+  (net 137 "Net-(C49-Pad1)")
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 06440ac0-0ef2-4a62-acb6-25681ab80b23)
@@ -495,7 +495,7 @@
     (pad "7" smd rect locked (at -0.635 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 51 "/Audio Switch/INL1") (pintype "output") (solder_mask_margin 0.1016) (tstamp 2d1ab056-3353-425d-8430-bc36d7e7a6c1))
     (pad "8" smd rect locked (at -1.905 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 15 "+12V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp a887dc82-8832-4bed-b805-2bd4144fd72f))
+      (net 14 "+5V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp a887dc82-8832-4bed-b805-2bd4144fd72f))
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
@@ -975,7 +975,7 @@
     (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
       (net 1 "GND") (pinfunction "1") (pintype "passive") (tstamp 57e74bb0-961d-4b2f-8d24-be3e4a466247))
     (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
-      (net 137 "Net-(T4-PadC2A)") (pinfunction "2") (pintype "passive") (tstamp e2b790a9-f619-4032-8956-7a05f9db5296))
+      (net 137 "Net-(C49-Pad1)") (pinfunction "2") (pintype "passive") (tstamp e2b790a9-f619-4032-8956-7a05f9db5296))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -3242,7 +3242,7 @@
     (at 90.88675 161.635)
     (property "Sheetfile" "taylor-encoder.kicad_sch")
     (property "Sheetname" "Tayloe Encoder")
-    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/911795b8-5e55-433d-90b1-e1d34854a23b")
+    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/f76356d5-4c12-49b0-9c79-22ed5bc022d8")
     (attr through_hole)
     (fp_text reference "U5" (at 0.4 1.3) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.15)))
@@ -3338,7 +3338,7 @@
     (pad "7" smd rect locked (at -0.635 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 117 "Net-(C8-Pad1)") (pintype "output") (solder_mask_margin 0.1016) (tstamp 3ee9f4a1-c2c9-422e-b323-8a9321172f21))
     (pad "8" smd rect locked (at -1.905 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 15 "+12V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp 5a831a1e-6b36-4f29-a4c3-0d97cbcf0802))
+      (net 14 "+5V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp 5a831a1e-6b36-4f29-a4c3-0d97cbcf0802))
   )
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
@@ -3548,7 +3548,7 @@
     (pad "1" smd roundrect (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp a8975af5-6edb-49dc-a541-048c9be8b14f))
     (pad "2" smd roundrect (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
-      (net 15 "+12V") (pintype "passive") (tstamp aeab6a11-fd9d-468a-9818-6f06ee02956e))
+      (net 14 "+5V") (pintype "passive") (tstamp aeab6a11-fd9d-468a-9818-6f06ee02956e))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -4320,7 +4320,7 @@
     (fp_line (start -1 0.625) (end -1 -0.625) (layer "F.Fab") (width 0.1) (tstamp 89c86c32-b2d7-414a-9c7c-530944cf5e82))
     (fp_line (start -1 -0.625) (end 1 -0.625) (layer "F.Fab") (width 0.1) (tstamp f099f3c5-1522-4dbd-be3a-df033b5de0c6))
     (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
-      (net 137 "Net-(T4-PadC2A)") (pinfunction "1") (pintype "passive") (tstamp 7c995695-0293-4417-8c1f-94f76c474324))
+      (net 137 "Net-(C49-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 7c995695-0293-4417-8c1f-94f76c474324))
     (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
       (net 14 "+5V") (pinfunction "2") (pintype "passive") (tstamp f036d63f-006b-4994-b9ef-40c9999d184c))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
@@ -4620,7 +4620,7 @@
     (fp_line (start -2.15 -1.15) (end -1.15 -2.15) (layer "F.Fab") (width 0.1) (tstamp c055dd27-d32b-4480-b575-0a9ca0d9649f))
     (fp_circle (center 0 0) (end 2 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp f713c3c1-0c61-400c-9364-f1dcd909691f))
     (pad "1" smd roundrect (at -1.8 0) (size 2.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15625)
-      (net 137 "Net-(T4-PadC2A)") (pintype "passive") (tstamp bfb9a0d3-4801-4191-876a-3c505ad27fe2))
+      (net 137 "Net-(C49-Pad1)") (pintype "passive") (tstamp bfb9a0d3-4801-4191-876a-3c505ad27fe2))
     (pad "2" smd roundrect (at 1.8 0) (size 2.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15625)
       (net 1 "GND") (pintype "passive") (tstamp 987261b5-1e15-4220-a0f1-298f31031f1a))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x4.5.wrl"
@@ -4748,7 +4748,7 @@
     (pad "1" smd roundrect (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp 58c1faff-2f1e-4852-9f72-0ad2756a16e0))
     (pad "2" smd roundrect (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
-      (net 15 "+12V") (pintype "passive") (tstamp 25728283-bc81-485e-bea4-ffa689eb937e))
+      (net 14 "+5V") (pintype "passive") (tstamp 25728283-bc81-485e-bea4-ffa689eb937e))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -4832,7 +4832,7 @@
     (pad "1" smd roundrect (at -1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
       (net 1 "GND") (pintype "passive") (tstamp 1823f503-e95e-4d05-a1a9-bf3099ec761d))
     (pad "2" smd roundrect (at 1.475 0) (size 1.15 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.217391)
-      (net 15 "+12V") (pintype "passive") (tstamp 8a9d860f-d537-4d52-9af6-0046335691df))
+      (net 14 "+5V") (pintype "passive") (tstamp 8a9d860f-d537-4d52-9af6-0046335691df))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -5139,7 +5139,7 @@
     (pad "7" smd rect locked (at -0.635 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 49 "Net-(C6-Pad1)") (pintype "output") (solder_mask_margin 0.1016) (tstamp fd325966-e823-4344-bf69-5736e18e687e))
     (pad "8" smd rect locked (at -1.905 2.7) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 15 "+12V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp c3ca55ca-9e81-4c74-987c-0a781d7df5c4))
+      (net 14 "+5V") (pinfunction "V+") (pintype "power_in") (solder_mask_margin 0.1016) (tstamp c3ca55ca-9e81-4c74-987c-0a781d7df5c4))
   )
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
@@ -5776,13 +5776,13 @@
     (pad "C1B" thru_hole circle locked (at -3.54 10.04) (size 1.778 1.778) (drill 0.6) (layers *.Cu *.Mask)
       (net 104 "/RF Switch/From-Enc") (pinfunction "C1B") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp c6d2e317-f428-460e-adff-db21bb16eeb5))
     (pad "C2A" thru_hole circle locked (at 4.08 4.96) (size 1.778 1.778) (drill 0.6) (layers *.Cu *.Mask)
-      (net 137 "Net-(T4-PadC2A)") (pinfunction "C2A") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp 7babd4af-e9cb-4cd7-8e69-f00d7c78fe22))
+      (net 137 "Net-(C49-Pad1)") (pinfunction "C2A") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp 7babd4af-e9cb-4cd7-8e69-f00d7c78fe22))
     (pad "C2B" thru_hole circle locked (at -3.54 12.58) (size 1.778 1.778) (drill 0.6) (layers *.Cu *.Mask)
       (net 60 "Net-(R19-Pad2)") (pinfunction "C2B") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp 45202484-fb3e-4088-a78c-7b8812619a14))
     (pad "C3A" thru_hole circle locked (at 4.08 7.5) (size 1.778 1.778) (drill 0.6) (layers *.Cu *.Mask)
       (net 62 "Net-(R20-Pad2)") (pinfunction "C3A") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp f62969f0-b601-4929-ac52-430ebd27636c))
     (pad "C3B" thru_hole circle locked (at -3.54 15.12) (size 1.778 1.778) (drill 0.6) (layers *.Cu *.Mask)
-      (net 137 "Net-(T4-PadC2A)") (pinfunction "C3B") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp bdefd7f8-9b29-4d3a-b0d3-60dfc9c7c9e9))
+      (net 137 "Net-(C49-Pad1)") (pinfunction "C3B") (pintype "bidirectional") (solder_mask_margin 0.1016) (tstamp bdefd7f8-9b29-4d3a-b0d3-60dfc9c7c9e9))
   )
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")

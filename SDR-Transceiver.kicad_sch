@@ -834,8 +834,8 @@
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/6bd3c369-3f6b-4011-936a-867770d4aa55"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/0297e9bb-842a-4de3-bad3-5ebef663dbbf"
-      (reference "#PWR0111") (unit 1) (value "+12V") (footprint "")
+    (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/956f8ab8-bbd3-45ae-beff-326f2e55891c"
+      (reference "#PWR0111") (unit 1) (value "+5V") (footprint "")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/638a7e2f-4b77-4165-b53d-cd08374755a2"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
@@ -879,8 +879,8 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/6b6e6014-4a06-4d8e-a719-0257a3d7652c"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
     )
-    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/2986b397-d659-4a3f-9b50-a894da4b8c6f"
-      (reference "#PWR0126") (unit 1) (value "+12V") (footprint "")
+    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/5ec5d1f1-03c3-4d6e-a5f0-cce980f8bd75"
+      (reference "#PWR0126") (unit 1) (value "+5V") (footprint "")
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/77691cf1-ad50-419f-996d-e1269b99e777"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
@@ -900,8 +900,8 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/d147a53e-1092-43ea-b19e-84772b287e30"
       (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
     )
-    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/6f5d3cec-ddd3-4990-90a8-92fdcc162511"
-      (reference "#PWR0133") (unit 1) (value "+12V") (footprint "")
+    (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/22268b86-2c84-4be2-8684-c068ca09d129"
+      (reference "#PWR0133") (unit 1) (value "+5V") (footprint "")
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/97537b3d-c986-4b29-bdee-a014704ef208"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
