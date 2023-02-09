@@ -982,7 +982,7 @@
     (property "Reference" "J8" (id 0) (at 176.53 52.0699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Audio_Jack" (id 1) (at 176.53 54.6099 0)
+    (property "Value" "Amplifier T/R" (id 1) (at 176.53 54.6099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Xenir:Audio_Jack" (id 2) (at 168.91 62.23 0)

@@ -1273,16 +1273,16 @@
       (reference "J1") (unit 1) (value "BNC") (footprint "Xenir:BNC")
     )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/1074fd9c-9784-426b-bc84-39d1deb68297"
-      (reference "J2") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "IN-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
-      (reference "J3") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "OUT-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dc656fff-18ac-4a4a-803f-1283e189c131"
-      (reference "J4") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "IN-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/6b398d1c-319d-4d23-9732-14e1190019e0"
-      (reference "J5") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+      (reference "J5") (unit 1) (value "OUT-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/b40a4855-8e06-46a5-8c44-5d64e8e51443"
       (reference "J6") (unit 1) (value "TO-PA") (footprint "Xenir_V6:pcb-sma-edge")
@@ -1291,7 +1291,7 @@
       (reference "J7") (unit 1) (value "FROM-PA") (footprint "Xenir_V6:pcb-sma-edge")
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/09c57429-7f2f-4ada-a464-c207955bd1d5"
-      (reference "J8") (unit 1) (value "Audio_Jack") (footprint "Xenir:Audio_Jack")
+      (reference "J8") (unit 1) (value "Amplifier T/R") (footprint "Xenir:Audio_Jack")
     )
     (path "/5ff2d89a-bce1-4bc3-a6cd-a338f168d531/908d3ffa-3b26-4713-9ac3-d4fda9c621ef"
       (reference "J9") (unit 1) (value "Barrel_Jack_Switch") (footprint "Xenir:BarrelJack_Horizontal")
