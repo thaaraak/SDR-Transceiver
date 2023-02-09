@@ -1313,7 +1313,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 167f23ec-0a58-467e-b69b-4eb029d95ce8)
     (property "Reference" "T4" (id 0) (at 229.3874 41.91 0))
-    (property "Value" "T50_SPLITTER" (id 1) (at 229.3874 44.45 0))
+    (property "Value" "T50_COMBINER" (id 1) (at 229.3874 44.45 0))
     (property "Footprint" "Xenir:T50 Trifilar" (id 2) (at 229.87 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )

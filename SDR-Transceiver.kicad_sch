@@ -1186,13 +1186,13 @@
       (reference "C23") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/fc04a4e4-1dba-4730-a534-63e52692b1d5"
-      (reference "C24") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C24") (unit 1) (value "22uF") (footprint "Capacitor_SMD:CP_Elec_4x4.5")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/14ef25cd-943e-4963-b96c-01a2a554ca76"
       (reference "C25") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/6a34666e-bc5a-495c-8fdd-3d7ede3a07ba"
-      (reference "C26") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C26") (unit 1) (value "22uF") (footprint "Capacitor_SMD:CP_Elec_4x4.5")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/57ec3002-cebc-4d33-997d-28a28aea6d28"
       (reference "C27") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1495,7 +1495,7 @@
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/167f23ec-0a58-467e-b69b-4eb029d95ce8"
-      (reference "T4") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
+      (reference "T4") (unit 1) (value "T50_COMBINER") (footprint "Xenir:T50 Trifilar")
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/c32cc9c6-93b5-46e1-ac84-f12d271ad6ab"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
