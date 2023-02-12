@@ -1276,7 +1276,7 @@
       (reference "J2") (unit 1) (value "IN-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
-      (reference "J3") (unit 1) (value "OUT-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "OUT-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dc656fff-18ac-4a4a-803f-1283e189c131"
       (reference "J4") (unit 1) (value "IN-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
