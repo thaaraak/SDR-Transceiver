@@ -6411,7 +6411,7 @@
 
   (footprint "Capacitor_SMD:CP_Elec_4x4.5" (layer "F.Cu")
     (tedit 5BCA39CF) (tstamp e7670c2a-eab3-4bee-93bf-8e7e80ba2590)
-    (at 85.09 167.513)
+    (at 82.528 180.34)
     (descr "SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "DSP.kicad_sch")
