@@ -1483,7 +1483,7 @@
       (reference "R51") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/1a433e77-5ab1-4d83-98e8-254688e53ccb"
-      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_THT:SW_PUSH_6mm")
+      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/bb6247a0-b5d4-442d-bfc0-2632c23ec1a7"
       (reference "SW2") (unit 1) (value "Frequency") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
@@ -1534,7 +1534,7 @@
       (reference "U5") (unit 3) (value "LM4562") (footprint "Xenir:SO08")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/bfc5e1cf-d28e-44f7-b8ad-5f46427e5b43"
-      (reference "U6") (unit 1) (value "ESP32-A1S") (footprint "Xenir:ESP32-A1S")
+      (reference "U6") (unit 1) (value "ESP32-A1S") (footprint "xenir_v6:esp32-a1s-header")
     )
     (path "/38ec5edb-504e-48c9-aada-546359fe144d/36f74fc8-7aa3-4ba8-81d0-37fd62bf6dc9"
       (reference "U7") (unit 1) (value "FST3257") (footprint "Xenir:SO16")
