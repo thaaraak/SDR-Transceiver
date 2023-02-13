@@ -1116,6 +1116,9 @@
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/019ad98c-756d-4b92-8926-81903c953677"
       (reference "#PWR0204") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/728b5db2-e0ae-487c-a359-297037f4640a"
+      (reference "#PWR0205") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/34067e6c-49d8-490e-84ad-4e212d112ce1"
       (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -1262,6 +1265,12 @@
     )
     (path "/761d3f21-aa4d-464a-afce-80c9486b9d95/a55b12fb-a007-4e26-914a-085ed565fd69"
       (reference "C49") (unit 1) (value "10uF") (footprint "Capacitor_SMD:CP_Elec_4x4.5")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/e25c875b-a452-487a-85e3-a46ee04e963d"
+      (reference "C50") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/6f0e8bf3-8c14-402a-8231-eed894976827"
+      (reference "C51") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/dd78a2a3-3b94-4c56-a19a-5c168aa90dff"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
@@ -1483,13 +1492,16 @@
       (reference "R51") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/1a433e77-5ab1-4d83-98e8-254688e53ccb"
-      (reference "SW1") (unit 1) (value "SW_DIP_x01") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+      (reference "SW1") (unit 1) (value "RST") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/bb6247a0-b5d4-442d-bfc0-2632c23ec1a7"
       (reference "SW2") (unit 1) (value "Frequency") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/8ec24238-50d1-4f5d-94ac-3c8e338b4c66"
       (reference "SW3") (unit 1) (value "Menu") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
+    )
+    (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/af00275b-51a5-4d39-ba97-77a8e90d0442"
+      (reference "SW4") (unit 1) (value "BOOT") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
     (path "/55f7663e-b1f3-4887-8039-51d9aa6cf075/48d5bd60-7f69-4208-859d-4842c79ca943"
       (reference "T3") (unit 1) (value "T50_SPLITTER") (footprint "Xenir:T50 Trifilar")
