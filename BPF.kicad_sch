@@ -179,7 +179,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 40180371-a3ca-4089-8455-a5a015609fda)
     (property "Reference" "J3" (id 0) (at 144.145 48.26 0))
-    (property "Value" "OUT-LPF" (id 1) (at 144.145 50.8 0))
+    (property "Value" "OUT-BPF" (id 1) (at 144.145 50.8 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (id 2) (at 143.51 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
