@@ -940,7 +940,7 @@
     (property "Reference" "J12" (id 0) (at 175.9712 109.8296 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x07_Female" (id 1) (at 175.9712 112.141 0)
+    (property "Value" "MIC" (id 1) (at 175.9712 112.141 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" (id 2) (at 175.26 110.49 0)
