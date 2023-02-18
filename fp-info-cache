@@ -1,4 +1,4 @@
-21005392250316025
+21004477205087510
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87527,455 +87527,455 @@ varistor
 0
 2
 2
-xenir
+Xenir
 ADEX-10L
 
 
 0
 6
 6
-xenir
+Xenir
 Audio_Jack
 
 
 0
 5
 5
-xenir
+Xenir
 BN-43-202-Splitter-SMD
 
 
 0
 5
 5
-xenir
+Xenir
 BN-43-202-Vertical
 
 
 0
 2
 2
-xenir
+Xenir
 BN-43-202-Vertical-SMD
 
 
 0
 2
 2
-xenir
+Xenir
 BN-43-2402
 
 
 0
 2
 2
-xenir
+Xenir
 BN-302-Splitter
 
 
 0
 6
 6
-xenir
+Xenir
 BNC
 
 
 0
 4
 4
-xenir
+Xenir
 BarrelJack_Horizontal
 Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
 Power Jack
 0
 3
 3
-xenir
+Xenir
 Cap_4x5.4
 
 
 0
 2
 2
-xenir
+Xenir
 Cap_6.3x5.4
 
 
 0
 2
 2
-xenir
+Xenir
 Capacitor
 
 
 0
 2
 2
-xenir
+Xenir
 Capacitor 0805
 
 
 0
 2
 2
-xenir
+Xenir
 Capacitor 1206
 
 
 0
 2
 2
-xenir
+Xenir
 DIP8
 
 
 0
 8
 8
-xenir
+Xenir
 ESP32-15Pin
 
 
 0
 30
 29
-xenir
+Xenir
 ESP32-A1S
 
 
 0
 39
 39
-xenir
+Xenir
 ESP32-A1Sa
 
 
 0
 38
 38
-xenir
+Xenir
 ESP32-A1Sb
 
 
 0
 3
 3
-xenir
+Xenir
 Electret
 
 
 0
 2
 2
-xenir
+Xenir
 Ferrite-Tube-Splitter-SMD
 
 
 0
 5
 5
-xenir
+Xenir
 Ferrite-Tube-Transformer-SMD
 
 
 0
 4
 4
-xenir
+Xenir
 Heatsink_Mounting_25mm
 
 
 0
 2
 1
-xenir
+Xenir
 Inductor_5mm
 
 
 0
 2
 2
-xenir
+Xenir
 Jumper
 
 
 0
 2
 2
-xenir
+Xenir
 LCD_I2C
 
 
 0
 4
 4
-xenir
+Xenir
 LargeResistorSurfaceMount
 Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf
 Resistor Axial_DIN0414 series Axial Horizontal pin pitch 20.32mm 2W length 11.9mm diameter 4.5mm
 0
 2
 2
-xenir
+Xenir
 PCB SMA
 
 
 0
 5
 5
-xenir
+Xenir
 PCB-SMA-EDGE
 
 
 0
 5
 2
-xenir
+Xenir
 PCBArtist-ES8388
 
 
 0
 20
 16
-xenir
+Xenir
 Pad
 
 
 0
 1
 1
-xenir
+Xenir
 PinPad
 
 
 0
 2
 2
-xenir
+Xenir
 Power Connector
 
 
 0
 2
 2
-xenir
+Xenir
 PowerConnectorPads
 
 
 0
 2
 2
-xenir
+Xenir
 Relay_DPDT_Omron_G5V-2-SMD
 http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v2.pdf
 Omron G5V-2 Relay DPDT
 0
 8
 8
-xenir
+Xenir
 Resistor 0805
 
 
 0
 2
 2
-xenir
+Xenir
 Resistor 1206
 
 
 0
 2
 2
-xenir
+Xenir
 SBL-1
 
 
 0
 8
 8
-xenir
+Xenir
 SN76477
 
 
 0
 28
 28
-xenir
+Xenir
 SO08
 
 
 0
 8
 8
-xenir
+Xenir
 SO16
 
 
 0
 16
 16
-xenir
+Xenir
 SOIC8
 
 
 0
 8
 8
-xenir
+Xenir
 Switch_DPDT
 
 
 0
 6
 6
-xenir
+Xenir
 T37 Transformer
 
 
 0
 4
 4
-xenir
+Xenir
 T37_Inductor
 
 
 0
 2
 2
-xenir
+Xenir
 T50 Trifilar
 
 
 0
 6
 6
-xenir
+Xenir
 T50_Inductor
 
 
 0
 2
 2
-xenir
+Xenir
 T50_Transformer
 
 
 0
 4
 4
-xenir
+Xenir
 T092
 
 
 0
 3
 3
-xenir
+Xenir
 TINYpico
 
 
 0
 20
 19
-xenir
+Xenir
 TO-220-Horizontal
 
 
 0
 3
 3
-xenir
+Xenir
 TO-220-Horizontal-RD-Mosfet
 
 
 0
 3
 3
-xenir
+Xenir
 TO-247-Horizontal
 
 
 0
 3
 2
-xenir
+Xenir
 Trimpot
 
 
 0
 3
 3
-xenir
+Xenir
 Trimpot Vertical
 
 
 0
 3
 3
-xenir
+Xenir
 Trimpot_Horizontal
 
 
 0
 3
 3
-xenir
+Xenir
 Trimpot_Horizontal_SMD
 
 
 0
 3
 3
-xenir
+Xenir
 TwoPads
 
 
 0
 2
 2
-xenir
+Xenir
 VV105
 
 
 0
 4
 4
-xenir
+Xenir
 pMod_I2S2
 Through hole straight pin header, 2x06, 2.54mm pitch, double rows
 Through hole pin header THT 2x06 2.54mm double row
 0
 12
 12
-xenir
+Xenir
 si5351
 
 
 0
 7
 7
-xenir
+Xenir
 trimcap
 
 
 0
 2
 2
-xenir_v6
+Xenir_V6
 ESP32-A1S-GND
 
 
 0
 39
 38
-xenir_v6
+Xenir_V6
 esp32-a1s-header
 
 
 0
-32
-32
-xenir_v6
+38
+38
+Xenir_V6
 pcb-sma-edge
 
 
