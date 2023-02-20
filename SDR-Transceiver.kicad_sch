@@ -1341,6 +1341,9 @@
     (path "/993bcb89-41cf-4029-9d09-496dbb0d0f28"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
     )
+    (path "/2f85a458-660d-4f57-88f2-6e8a918eb0ad/f9253e2b-1851-4f76-845e-5c82ad91be08"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/34067e6c-49d8-490e-84ad-4e212d112ce1"
       (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -1559,6 +1562,9 @@
     )
     (path "/5f063c95-df15-40e2-976b-527eb6081e78/3e05ee0d-083d-4ed8-9b9d-b2c95b184263"
       (reference "J12") (unit 1) (value "MIC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical")
+    )
+    (path "/2f85a458-660d-4f57-88f2-6e8a918eb0ad/639c34a6-851a-4dbf-b4ee-623e9aba9677"
+      (reference "J13") (unit 1) (value "Audio_Jack") (footprint "Xenir:Audio_Jack")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8abc09d7-e367-4338-a9ec-158f41a92538"
       (reference "K1") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
