@@ -1555,16 +1555,16 @@
       (reference "J9") (unit 1) (value "Barrel_Jack_Switch") (footprint "Xenir:BarrelJack_Horizontal")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/6a50db77-5309-4a29-bc31-948c855967b8"
-      (reference "J10") (unit 1) (value "Conn_01x07_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "USB to Serial") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical")
     )
     (path "/85cf5236-19af-47bd-b6dc-799e0e38ef1d/2801efd7-3601-4bdd-b2be-5bf1d70b2606"
-      (reference "J11") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "LCD") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/5f063c95-df15-40e2-976b-527eb6081e78/3e05ee0d-083d-4ed8-9b9d-b2c95b184263"
       (reference "J12") (unit 1) (value "MIC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical")
     )
     (path "/2f85a458-660d-4f57-88f2-6e8a918eb0ad/639c34a6-851a-4dbf-b4ee-623e9aba9677"
-      (reference "J13") (unit 1) (value "Audio_Jack") (footprint "Xenir:Audio_Jack")
+      (reference "J13") (unit 1) (value "Audio Out") (footprint "Xenir:Audio_Jack")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/8abc09d7-e367-4338-a9ec-158f41a92538"
       (reference "K1") (unit 1) (value "G6S-2") (footprint "Relay_THT:Relay_DPDT_Omron_G6S-2")
