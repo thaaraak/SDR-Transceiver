@@ -236,7 +236,7 @@
   (symbol (lib_id "power:+3V3") (at 124.46 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8f5f224-6f15-4d10-8892-ebc8053a0597)
-    (property "Reference" "#PWR?" (id 0) (at 124.46 55.88 0)
+    (property "Reference" "#PWR0198" (id 0) (at 124.46 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (id 1) (at 124.46 46.99 0))
