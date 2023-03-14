@@ -1344,6 +1344,9 @@
     (path "/2f85a458-660d-4f57-88f2-6e8a918eb0ad/f9253e2b-1851-4f76-845e-5c82ad91be08"
       (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
+      (reference "BPF1") (unit 1) (value "OUT-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/34067e6c-49d8-490e-84ad-4e212d112ce1"
       (reference "C1") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -1533,14 +1536,8 @@
     (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/1074fd9c-9784-426b-bc84-39d1deb68297"
       (reference "J2") (unit 1) (value "IN-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
-    (path "/4b1ef805-7fd0-4a4a-b5da-5feeaa035c65/40180371-a3ca-4089-8455-a5a015609fda"
-      (reference "J3") (unit 1) (value "OUT-BPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
-    )
     (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/dc656fff-18ac-4a4a-803f-1283e189c131"
       (reference "J4") (unit 1) (value "IN-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
-    )
-    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/6b398d1c-319d-4d23-9732-14e1190019e0"
-      (reference "J5") (unit 1) (value "OUT-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/b40a4855-8e06-46a5-8c44-5d64e8e51443"
       (reference "J6") (unit 1) (value "TO-PA") (footprint "Xenir_V6:pcb-sma-edge")
@@ -1574,6 +1571,9 @@
     )
     (path "/fcc9c1e3-d78e-4432-bbd5-5698bfd2ca1f/c434b39c-584a-46a5-8ca4-ecd50811410c"
       (reference "L1") (unit 1) (value "BN43-2402 6T") (footprint "Xenir:BN-43-2402")
+    )
+    (path "/3c85d954-82ab-4b0c-952d-ee98ece6c954/6b398d1c-319d-4d23-9732-14e1190019e0"
+      (reference "LPF1") (unit 1) (value "OUT-LPF") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/ccad2f77-41ee-4855-83bb-0372e01592b3/ea0200b7-1491-4b65-b828-8f6727034cbd"
       (reference "Q1") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
