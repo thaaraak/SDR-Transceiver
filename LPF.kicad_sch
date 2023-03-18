@@ -190,7 +190,7 @@
   (symbol (lib_id "Connector:Conn_01x03_Female") (at 146.05 83.82 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6b398d1c-319d-4d23-9732-14e1190019e0)
-    (property "Reference" "J5" (id 0) (at 146.685 76.2 0))
+    (property "Reference" "LPF1" (id 0) (at 146.685 76.2 0))
     (property "Value" "OUT-LPF" (id 1) (at 146.685 78.74 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (id 2) (at 146.05 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
