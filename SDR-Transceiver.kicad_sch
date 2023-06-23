@@ -877,7 +877,7 @@
     (property "Sheet name" "DSP" (id 0) (at 40.64 80.2509 0)
       (effects (font (size 1.905 1.905)) (justify left bottom))
     )
-    (property "Sheet file" "DSP.kicad_sch" (id 1) (at 40.64 131.3946 0)
+    (property "Sheet file" "DSP-new.kicad_sch" (id 1) (at 40.64 131.3946 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (pin "DSP-OUTL" output (at 63.5 118.11 0)
