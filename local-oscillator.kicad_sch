@@ -202,7 +202,7 @@
     (property "Value" "si5351" (id 1) (at 126.4794 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Xenir:si5351" (id 2) (at 123.19 66.04 0)
+    (property "Footprint" "xenir:si5351" (id 2) (at 123.19 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 123.19 66.04 0)

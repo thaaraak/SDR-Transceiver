@@ -1,4 +1,4 @@
-21005392251676516
+21051883909337037
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87968,6 +87968,13 @@ ESP32-A1S-GND
 0
 39
 38
+xenir_v6
+ESP32-S3
+
+
+0
+0
+0
 xenir_v6
 esp32-a1s-header
 
