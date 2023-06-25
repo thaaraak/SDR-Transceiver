@@ -1224,10 +1224,10 @@
     (uuid f0ce4057-5b62-4133-97b8-6a217499a4b2)
   )
 
-  (global_label "MCLK" (shape input) (at 102.87 69.85 0) (fields_autoplaced)
+  (global_label "MCLK" (shape input) (at 102.87 72.39 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0137c204-ccab-4ed7-b9a9-2812e9e5afaf)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 110.3026 69.7706 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 110.3026 72.3106 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
